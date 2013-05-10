@@ -1,0 +1,276 @@
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.782609, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.891304, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.760870, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.826087, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Cross Validation, Folder: 9,  Shuffled 
+Bag label accuracy = 0.890909, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 4
+Message: Cross Validation, Folder: 9,  Shuffled 
+Bag label accuracy = 0.902020, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 4
+Message: Train-Test Split, Boundary: 9,  Shuffled 
+Bag label accuracy = 0.602410, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 4
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.760870, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 4
+Message: Train-Test Split, Boundary: -2, 
+Bag label accuracy = 0.021739, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 4
+Message: Train-Test Split, Boundary: -2, 
+Bag label accuracy = 0.021739, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 4
+Message: Cross Validation, Folder: 10, 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Cross Validation, Folder: 10, 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:train_test_validation -- kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.717391, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.782609, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.804348, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.695652, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.760870, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.782609, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.717391, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 4 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.826087, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 4 –CiterRank 4
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.804348, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.913043, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.608696, Instance label accuracy = 0.533808, 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.738889, Instance label accuracy = 0.676184, 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Training on File example.data,  Shuffled 
+
+Processing Filename: example.data
+Classifier:
+Message: Training on File example.data,  Shuffled 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Training on File example.data,  Shuffled 
+Bag label accuracy = 0.869565, Instance label accuracy = 0.836134, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.847826, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 3,  Shuffled 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.739130, Instance label accuracy = 0.693023, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 3,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 3,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.739130, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.847826, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.804348, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.891304, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.826087, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.804348, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.760870, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Cross Validation, Folder: 3,  Shuffled 
+Bag label accuracy = 0.880645, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Cross Validation, Folder: 3,  Shuffled 
+Bag label accuracy = 0.880645, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Cross Validation, Folder: 3,  Shuffled 
+Bag label accuracy = 0.848029, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Cross Validation, Folder: 3,  Shuffled 
+Bag label accuracy = 0.849104, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 4
+Message: Cross Validation, Folder: 3,  Shuffled 
+Bag label accuracy = 0.815412, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 3 –CiterRank 4
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.869565, 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.782609, Instance label accuracy = 0.762332, 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.586957, Instance label accuracy = 0.450495, 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.760870, Instance label accuracy = 0.568106, 
+
+Processing Filename: example.data
+Classifier:inst_MI_SVM
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.739130, Instance label accuracy = 0.642045, 

@@ -1,0 +1,24 @@
+
+Processing Filename: example.data
+Classifier:EMDD
+Message: Testing on File example2.data, 
+
+Processing Filename: example2.data
+Classifier:inst_MI_SVM
+Message: Testing on File example2.data, 
+Bag label accuracy = 0.428571, Instance label accuracy = 0.589958, 
+
+Processing Filename: example.data
+Classifier:EMDD
+Message: Testing on File example2.data, 
+Bag label accuracy = 0.971429, Instance label accuracy = 0.774059, 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 2 –CiterRank 5
+Message: Testing on File example2.data,  Shuffled 
+Bag label accuracy = 0.971429, 
+
+Processing Filename: example2.data
+Classifier:inst_MI_SVM
+Message: Testing on File example2.data,  Shuffled 
+Bag label accuracy = 0.885714, Instance label accuracy = 0.799163, 
